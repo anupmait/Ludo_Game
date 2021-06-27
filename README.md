@@ -6,4 +6,7 @@
 <h1>About This Game</h1>
 <p>This is Responsive for Both Mobile and Laptop/Pc</p>
 
+live demo: 
+https://anupmait.github.io/Ludo_Game/
+
 feel free to suggest edits
